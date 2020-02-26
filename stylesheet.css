@@ -1,0 +1,23 @@
+body {background-color: rgb(186, 247, 247);}
+  	p {color: rgb(55, 34, 2);}
+  	
+  	*{box-sizing: border-box;}
+  	
+  	.row {content:""; display: table; clear: both;}
+  	 
+  	 .columnLeft{float: left; width:33.33%; padding: 10px;}
+ 
+   	 }
+  	 
+  	 .columnRight{float: left; width:33.33%; padding: 10px;}
+ 
+   	 }
+  	 
+	.columnRighty{float: left; width:33.33%; padding: 10px;}
+
+
+ul.nav{list-style-type: none; background-color: black; margin: 0; padding: 2; overflow: hidden;}
+
+lis a {float: left; display: block; color: black; padding: 8px 16px; text-align: left; }
+
+li a:hover {background-color: white; color: black; }
